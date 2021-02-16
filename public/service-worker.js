@@ -5,6 +5,8 @@ const FILES_CACHE = [
   "/index.js",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
+  "/db.js",
+  "/register-sw.js"
 ];
 
 const NAME = "name";
